@@ -1,0 +1,54 @@
+text size :   1105(0x00451)
+data size :    116(0x00074)
+bss  size :      0(0x00000)
+
+0x00000024 : (.text)
+0x00000024 : _HariMain
+0x00000241 : _move
+0x00000399 : _api_openwin
+0x00000399 : (.text)
+0x000003BB : _api_putstrwin
+0x000003BB : (.text)
+0x000003E3 : _api_boxfilwin
+0x000003E3 : (.text)
+0x0000040B : _api_getkey
+0x0000040B : (.text)
+0x00000417 : _api_alloctimer
+0x00000417 : (.text)
+0x0000041F : _api_inittimer
+0x0000041F : (.text)
+0x00000431 : _api_settimer
+0x00000431 : (.text)
+0x00000443 : __alloca
+0x00000443 : (.text)
+0x0000044B : (.text)
+0x0000044B : _HariStartup
+0x00000454 : _rand
+0x00000454 : (.text)
+0x00000000 : (.data)
+0x00000000 : (.data)
+0x00000000 : (.data)
+0x00000000 : (.data)
+0x00000000 : (.data)
+0x00000000 : (.data)
+0x00000000 : (.data)
+0x00000000 : (.data)
+0x00000000 : (.data)
+0x00016800 : (.data)
+0x00016800 : _planex
+0x00016804 : _planey
+0x00016808 : _flag
+0x00016830 : _enemy
+0x00016870 : (.data)
+0x00016870 : _rand_seed
+0x00000000 : (.bss)
+0x00000000 : (.bss)
+0x00000000 : (.bss)
+0x00000000 : (.bss)
+0x00000000 : (.bss)
+0x00000000 : (.bss)
+0x00000000 : (.bss)
+0x00000000 : (.bss)
+0x00000000 : (.bss)
+0x00000000 : (.bss)
+0x00000000 : (.bss)
